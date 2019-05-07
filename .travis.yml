@@ -3,4 +3,3 @@ os: linux
 
 script:
   - make build
-  - make run
