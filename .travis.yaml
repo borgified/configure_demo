@@ -1,0 +1,6 @@
+language: minimal
+os: linux
+
+script:
+  - make build
+  - make run
